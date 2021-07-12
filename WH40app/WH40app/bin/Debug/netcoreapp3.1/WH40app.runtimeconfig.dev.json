@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kirael\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kirael\\.nuget\\packages"
+    ]
+  }
+}

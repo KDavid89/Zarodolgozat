@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\OldTimeLaptop\\13.A\\13.A prog\\WH40app\\WH40app\\WH40app.csproj": {}
+  },
+  "projects": {
+    "C:\\OldTimeLaptop\\13.A\\13.A prog\\WH40app\\WH40app\\WH40app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\OldTimeLaptop\\13.A\\13.A prog\\WH40app\\WH40app\\WH40app.csproj",
+        "projectName": "WH40app",
+        "projectPath": "C:\\OldTimeLaptop\\13.A\\13.A prog\\WH40app\\WH40app\\WH40app.csproj",
+        "packagesPath": "C:\\Users\\Kirael\\.nuget\\packages\\",
+        "outputPath": "C:\\OldTimeLaptop\\13.A\\13.A prog\\WH40app\\WH40app\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kirael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

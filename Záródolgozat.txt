@@ -1,0 +1,6 @@
+A Detachment.csv excel fájlt a program debug mappájába be kell másolni.
+
+A weboldal működéséhez a WH40shop mappát be kell másolni a xampp/htdocs/ mappába ezután
+ a bögészőben mek ekll nyitni a localhost/WH40Shop címet a xampp automatikusan az index.php-t fogja megjeleníteni.
+
+AZ adatbázist zarodolgozat néven kelll létrehozni utána beinportálni az sql fájlt.

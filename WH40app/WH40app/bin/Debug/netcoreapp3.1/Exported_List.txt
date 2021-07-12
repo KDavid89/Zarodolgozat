@@ -1,0 +1,3 @@
+Cadians Role:Troops
+Ork Boyz Role:Troops
+Space Marine Commander Role:HQ

@@ -1,0 +1,61 @@
+.carousel-caption{
+background: rgba(0,0,0,0.6);
+border-radius: 25px;
+}
+
+.card:hover{
+box-shadow: 0px 0px 7.5px black;
+}
+
+.carousel .carousel-item {
+    height: 800px;
+    
+  }
+  
+  .carousel-item img {
+    position: absolute;
+        height: 100%;
+      top: 0;
+      left: 0;
+      
+  }
+
+  .FooterPic {
+    width: 2%;
+    margin-right: 10px;
+  }
+
+  #footerlist{
+    list-style:none;
+    white-space: nowrap;
+   
+  }
+
+  .footercell{
+    width: auto;
+   display: inline;
+    margin-right: 13%;
+  }
+
+  @media (max-width:960px) { 
+    .carousel .carousel-item {
+      height: 300px;
+      
+    }
+    
+    .carousel-item img {
+      position: absolute;
+          height: 300px;
+        top: 0;
+        left: 0;
+    }
+    
+    .footercell{
+      width: auto;
+      margin-right: 13%;
+      display: block;
+    }
+        
+    }
+
+    
