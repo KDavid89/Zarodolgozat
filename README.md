@@ -14,4 +14,4 @@ Asztali alkalmazás: Visual Studio 2019    Használt nyelv(ek): C#.
 Weblap: Visual Studio Code    Használt nyelv(ek):CSS, JavaScript, PHP, HTML,
 Emellett Bootstrap.
 
-Adatbázis: XAMPP    Használt nyelv(ek): SQL.
+Adatbázis: XAMPP    Használt nyelv(ek): MySQL.
