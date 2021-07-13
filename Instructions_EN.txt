@@ -1,0 +1,13 @@
+
+
+1. Copy the Detachment.csv into the debug folder.
+Path: \WH40app\WH40app\bin\Debug
+
+I only used Xampp for the Database so this file only contains instructions for it.
+
+2. To open the website I copied it into the Xampp/htdocs/ folder.
+After that open the localhost/WH40Shop URL.
+ 
+Xampp needs to be running to work and the MYSQL modul must be running.
+
+3. Import the Zarodolgozat.sql file into a Database created in Xampp called Zarodolgozat.
