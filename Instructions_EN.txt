@@ -10,4 +10,4 @@ After that open the localhost/WH40Shop URL.
  
 Xampp needs to be running to work and the MYSQL modul must be running.
 
-3. Import the Zarodolgozat.sql file into a Database created in Xampp called Zarodolgozat.
+3. Import the Zarodolgozat.sql file into a Database created in Xampp named Zarodolgozat.
